@@ -6,4 +6,3 @@ The study aims to identify effective ensemble methods for credit scoring under i
 
 + Link Home Credit Default Risk dataset: [home-credit-default-risk](https://www.kaggle.com/competitions/home-credit-default-risk)
 + Link pre-processing data: [pre-processing-home-credit-default-risk-data](https://www.kaggle.com/datasets/minhthu211/pre-processing-home-credit-default-risk-data)
-+ Link Report: [thesis](https://drive.google.com/file/d/1LuObKi6d2KhwLQfgjcxPhULfk-p0CROj/view?usp=sharing)
